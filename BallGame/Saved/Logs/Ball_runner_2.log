@@ -1,0 +1,1207 @@
+﻿Log file open, 04/27/21 17:40:21
+LogInit: Display: Running engine for game: Ball_runner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166079
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.27-15.40.27:291][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.27-15.40.27:291][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.27-15.40.27:295][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.27-15.40.27:296][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.27-15.40.27:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:296][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:341][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.27-15.40.27:341][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.27-15.40.27:342][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.27-15.40.27:343][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.27-15.40.27:357][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.27-15.40.27:357][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.27-15.40.27:371][  0]LogHAL: Display: Platform has ~ 16 GB [17129963520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.27-15.40.27:372][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.27-15.40.27:372][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.27-15.40.27:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Scalability.ini]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.27-15.40.27:373][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.27-15.40.27:386][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.27-15.40.27:386][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.27-15.40.27:386][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.27-15.40.27:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Config/Windows/Engine.ini]
+[2021.04.27-15.40.27:403][  0]LogInit: Computer: EMILIA-PC-ST01
+[2021.04.27-15.40.27:403][  0]LogInit: User: emili
+[2021.04.27-15.40.27:403][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.27-15.40.27:403][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.27-15.40.27:403][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.04.27-15.40.27:403][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.27-15.40.27:403][  0]LogMemory: Process Physical Memory: 113.98 MB used, 113.99 MB peak
+[2021.04.27-15.40.27:403][  0]LogMemory: Process Virtual Memory: 95.36 MB used, 95.36 MB peak
+[2021.04.27-15.40.27:403][  0]LogMemory: Physical Memory: 4746.30 MB used,  11590.10 MB free, 16336.41 MB total
+[2021.04.27-15.40.27:403][  0]LogMemory: Virtual Memory: 5128.58 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.04.27-15.40.27:418][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.27-15.40.28:607][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.27-15.40.28:631][  0]LogInit: Using OS detected language (pl-PL).
+[2021.04.27-15.40.28:631][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.04.27-15.40.28:760][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.04.27-15.40.28:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.04.27-15.40.28:761][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.04.27-15.40.28:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.04.27-15.40.28:762][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.04.27-15.40.28:786][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.04.27-15.40.28:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.04.27-15.40.28:805][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.04.27-15.40.28:888][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.27-15.40.29:697][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.27-15.40.29:697][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.27-15.40.32:840][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.27-15.40.32:840][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.27-15.40.32:840][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.27-15.40.32:840][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.27-15.40.32:958][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.04.27-15.40.32:958][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.27-15.40.32:960][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.27-15.40.32:960][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.27-15.40.32:960][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.27-15.40.32:966][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.27-15.40.32:966][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.27-15.40.32:966][  0]LogWindows: EnumDisplayDevices:
+[2021.04.27-15.40.32:967][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.04.27-15.40.32:967][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.04.27-15.40.32:967][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.04.27-15.40.32:967][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.04.27-15.40.32:968][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.27-15.40.32:968][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.04.27-15.40.32:968][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.04.27-15.40.32:968][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.04.27-15.40.32:968][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.04.27-15.40.33:029][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.27-15.40.33:030][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.27-15.40.33:030][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.27-15.40.33:343][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.27-15.40.34:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.27-15.40.34:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.27-15.40.35:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.27-15.40.35:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.27-15.40.35:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.27-15.40.35:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.27-15.40.35:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.27-15.40.35:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.27-15.40.35:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.27-15.40.35:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.27-15.40.35:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.27-15.40.35:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.27-15.40.35:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.27-15.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.27-15.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.27-15.40.35:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.27-15.40.35:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.27-15.40.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.27-15.40.35:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.27-15.40.35:687][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.27-15.40.35:998][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.27-15.40.37:016][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/Shaders/WorkingDirectory/1244/).
+[2021.04.27-15.40.37:017][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/emili/AppData/Local/Temp/UnrealShaderWorkingDir/AD8504FB4327209AA276569C0EAC51F0/'.
+[2021.04.27-15.40.37:069][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.27-15.40.37:070][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.27-15.40.37:070][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.27-15.40.42:750][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.27-15.40.43:001][  0]LogDerivedDataCache: Loaded boot cache 0.25s 76MB C:/Users/emili/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.27-15.40.43:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/emili/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.27-15.40.43:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.27-15.40.43:008][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.27-15.40.43:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.27-15.40.43:008][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.27-15.40.43:095][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.27-15.40.43:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.27-15.40.43:096][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.27-15.40.43:098][  0]LogDerivedDataCache: Using Local data cache path C:/Users/emili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.27-15.40.43:098][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.27-15.40.43:098][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.27-15.40.43:346][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.27-15.40.43:480][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.27-15.40.44:853][  0]LogAssetRegistry: FAssetRegistry took 0.0233 seconds to start up
+[2021.04.27-15.40.52:614][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.27-15.40.54:786][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.27-15.40.54:786][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.27-15.40.54:786][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.27-15.40.54:786][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.27-15.40.54:787][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.27-15.40.55:621][  0]LogNetVersion: Ball_runner 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1405546657)
+[2021.04.27-15.41.10:293][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000024F7C6FA4C0), frame # 0
+[2021.04.27-15.41.10:293][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F7C682AC0), frame # 0
+[2021.04.27-15.41.10:305][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F7C6E1C00), frame # 0
+[2021.04.27-15.41.10:847][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.11:349][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.11:850][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.12:351][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.12:851][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.13:353][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.13:853][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.14:354][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.14:854][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.15:355][  0]LogFileManager: Warning: MoveFile was unable to move 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin' (Error Code 2), retrying in .5s...
+[2021.04.27-15.41.15:856][  0]LogFileManager: Error: Error moving file 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Intermediate/AssetRegistryCache/67f932d1.bin'.
+[2021.04.27-15.41.15:882][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 5.098979 seconds
+[2021.04.27-15.41.15:887][  0]LogUObjectArray: 15913 objects as part of root set at end of initial load.
+[2021.04.27-15.41.15:887][  0]LogUObjectAllocator: 3964304 out of 0 bytes used by permanent object pool.
+[2021.04.27-15.41.15:887][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.27-15.41.18:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.27-15.41.18:658][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.27-15.41.20:421][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.04.27-15.41.20:435][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.04.27-15.41.20:435][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.04.27-15.41.20:891][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.20:891][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.20:991][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.21:030][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.21:093][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.24:529][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.27-15.41.24:676][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.27-15.41.24:676][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.27-15.41.25:297][  0]LogOcInput: OculusInput pre-init called
+[2021.04.27-15.41.25:375][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.27-15.41.25:375][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.27-15.41.28:112][  0]LogEngine: Initializing Engine...
+[2021.04.27-15.41.28:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.27-15.41.28:198][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.27-15.41.28:273][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.019 s
+[2021.04.27-15.41.29:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.27-15.41.30:179][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.27-15.41.30:180][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F007BD600), frame # 0
+[2021.04.27-15.41.30:180][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F007E5D00), frame # 0
+[2021.04.27-15.41.30:479][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-15.41.30:479][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-15.41.30:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-15.41.30:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-15.41.30:480][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-15.41.30:480][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-15.41.30:480][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-15.41.30:480][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-15.41.30:507][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-15.41.30:507][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-15.41.30:803][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-15.41.30:803][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-15.41.30:865][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-15.41.30:890][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-15.41.30:947][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-15.41.30:962][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-15.41.30:979][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-15.41.30:981][  0]LogInit: FAudioDevice initialized.
+[2021.04.27-15.41.31:003][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.27-15.41.31:068][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/emili/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.27-15.41.31:069][  0]LogInit: Texture streaming: Enabled
+[2021.04.27-15.41.31:398][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.27-15.41.31:398][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.27-15.41.31:949][  0]LogInit: Transaction tracking system initialized
+[2021.04.27-15.41.32:368][  0]BlueprintLog: New page: Editor Load
+[2021.04.27-15.41.34:173][  0]LocalizationService: Localization service is disabled
+[2021.04.27-15.41.40:290][  0]LogFileCache: Scanning file cache for directory 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/' took 0.05s
+[2021.04.27-15.41.40:290][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.27-15.41.40:311][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.27-15.41.45:254][  0]SourceControl: Source control is disabled
+[2021.04.27-15.41.45:263][  0]LogUnrealEdMisc: Loading editor; pre map load, took 84.838
+[2021.04.27-15.41.45:283][  0]Cmd: MAP LOAD FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-15.41.45:328][  0]LightingResults: New page: Lighting Build
+[2021.04.27-15.41.45:397][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.41.45:450][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.41.45:528][  0]MapCheck: New page: Map Check
+[2021.04.27-15.41.45:528][  0]LightingResults: New page: Lighting Build
+[2021.04.27-15.41.46:114][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F007BD600), frame # 0
+[2021.04.27-15.41.46:114][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F007E5D00), frame # 0
+[2021.04.27-15.41.46:142][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.27-15.41.46:174][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:175][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:175][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:176][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:177][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:178][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:178][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:178][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:224][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:224][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.04.27-15.41.46:225][  0]LogLinker: Warning: While loading 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.04.27-15.41.46:225][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.04.27-15.41.46:260][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.27-15.41.46:260][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F0F0A5600), frame # 0
+[2021.04.27-15.41.46:260][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F0F0A9E40), frame # 0
+[2021.04.27-15.41.46:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-15.41.46:535][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.27-15.41.46:564][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-15.41.46:564][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,177ms to complete.
+[2021.04.27-15.41.46:564][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.293
+[2021.04.27-15.41.47:931][  0]LogUnrealEdMisc: Total Editor Startup Time, took 87.507
+[2021.04.27-15.41.48:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.41.48:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.41.48:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.41.48:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.41.48:876][  0]LogCollectionManager: Loaded 0 collections in 0.000910 seconds
+[2021.04.27-15.41.49:032][  0]LogFileCache: Scanning file cache for directory 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/Collections/' took 0.00s
+[2021.04.27-15.41.49:032][  0]LogFileCache: Scanning file cache for directory 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Developers/emili/Collections/' took 0.00s
+[2021.04.27-15.41.49:032][  0]LogFileCache: Scanning file cache for directory 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Collections/' took 0.00s
+[2021.04.27-15.41.49:032][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3427 classes and 821 folders.
+[2021.04.27-15.41.49:189][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.04.27-15.41.50:965][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.27-15.41.51:043][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.04.27-15.41.52:159][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.27-15.41.52:159][  0]LogLoad: (Engine Initialization) Total time: 91.73 seconds
+[2021.04.27-15.41.52:159][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.27-15.41.52:514][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.27-15.41.52:516][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.27-15.41.53:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.27-15.41.53:957][  0]LogSlate: Took 0.056659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.27-15.41.54:001][  0]LogSlate: Took 0.036952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.27-15.41.54:149][  0]LogSlate: Took 0.040452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.27-15.41.54:966][  0]LogRenderer: Reallocating scene render targets to support 784x520 Format 10 NumSamples 1 (Frame:1).
+[2021.04.27-15.41.55:532][  0]LogSlate: Took 0.055961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.27-15.41.55:958][  2]LogAssetRegistry: Asset discovery search completed in 71.1196 seconds
+[2021.04.27-15.41.55:998][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.27-15.41.56:085][  2]LogSlate: Took 0.020488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.27-15.41.56:193][  2]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.27-15.42.03:943][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-15.42.03:944][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-15.45.06:232][801]LogRenderer: Reallocating scene render targets to support 784x652 Format 10 NumSamples 1 (Frame:3).
+[2021.04.27-15.45.09:771][813]LogRenderer: Reallocating scene render targets to support 916x652 Format 10 NumSamples 1 (Frame:5).
+[2021.04.27-15.45.17:774][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2021.04.27-15.45.19:458][835]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 125 classes and 0 folders.
+[2021.04.27-15.45.22:612][835]LogSlate: Took 0.037637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.27-15.45.23:242][836]LogSlate: Took 0.015559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.27-15.47.43:599][787]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.04.27-15.47.43:602][787]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.04.27-15.47.43:695][787]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.47.43:695][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.47.48:632][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Armata/NewBlueprint.NewBlueprint
+[2021.04.27-15.49.11:806][495]LogSlate: Window 'NewBlueprint' being destroyed
+[2021.04.27-15.49.11:810][495]LogSlate: Window 'NewBlueprint' being destroyed
+[2021.04.27-15.49.11:810][495]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.49.11:810][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.49.17:817][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2021.04.27-15.50.33:427][551]BlueprintLog: New page: Compile BP_Projectile
+[2021.04.27-15.50.33:576][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.04.27-15.50.42:840][197]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-15.51.30:739][380]LogSlate: Window 'Save Asset As' being destroyed
+[2021.04.27-15.51.52:026][830]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_ProjectileD15A293D4722D97748CC9CAB00267103.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_Projectile.uasset'
+[2021.04.27-15.51.52:066][830]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.04.27-15.51.52:067][830]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2021.04.27-15.51.52:498][881]BlueprintLog: New page: Compile BP_Projectile
+[2021.04.27-15.51.52:547][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.27-15.52.05:233][370]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_PlayerPawnCE7BCDCC4283233E58118989AEBF1F06.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.uasset'
+[2021.04.27-15.52.05:245][370]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2021.04.27-15.52.05:245][370]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-15.52.05:500][400]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.04.27-15.52.05:532][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.27-15.52.07:508][573]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-15.52.07:601][573]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.27-15.52.07:603][573]LogPlayLevel: [PlayLevel] Compiling NewBlueprint before play...
+[2021.04.27-15.52.07:667][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.27-15.52.07:669][573]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2021.04.27-15.52.07:725][573]PIE: New page: PIE session: Minimal_Default (27 kwi 2021, 19:52:07)
+[2021.04.27-15.52.07:763][573]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.27-15.52.07:773][573]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.27-15.52.07:788][573]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.27-15.52.07:853][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064360s)
+[2021.04.27-15.52.07:869][573]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.27-15.52.07:869][573]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F8F16FE00), frame # 32573
+[2021.04.27-15.52.07:869][573]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F8FB9AC00), frame # 32573
+[2021.04.27-15.52.07:870][573]LogPlayLevel: PIE: World Init took: (0.016460s)
+[2021.04.27-15.52.07:870][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.081917s)
+[2021.04.27-15.52.07:922][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-15.52.07:924][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-15.52.07:924][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-15.52.07:925][573]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-15.52.07:925][573]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-15.52.07:934][573]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-15.52.07:934][573]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-15.52.07:963][573]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-15.52.07:963][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-15.52.07:963][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-15.52.07:963][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-15.52.07:963][573]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-15.52.07:976][573]LogInit: FAudioDevice initialized.
+[2021.04.27-15.52.08:047][573]LogLoad: Game class is 'GameModeBase'
+[2021.04.27-15.52.08:143][573]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.27-17.52.08
+[2021.04.27-15.52.08:183][573]LogWorld: Bringing up level for play took: 0.024704
+[2021.04.27-15.52.08:186][573]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.04.27-15.52.08:408][573]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.04.27-15.52.08:511][573]PIE: Server logged in
+[2021.04.27-15.52.08:516][573]PIE: Play in editor total start time 0,982 seconds.
+[2021.04.27-15.52.11:540][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.52.11:540][807]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.27-15.52.11:540][807]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.52.11:540][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.11:556][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-15.52.11:567][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.11:589][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.52.11:618][807]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F8FB9AC00), frame # 32807
+[2021.04.27-15.52.11:618][807]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F8F16FE00), frame # 32807
+[2021.04.27-15.52.11:633][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.27-15.52.11:668][808]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.04.27-15.52.15:379][116]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2021.04.27-15.52.15:406][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.27-15.52.17:329][116]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-15.52.17:349][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Armata/NewBlueprint" FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Armata/NewBlueprint.uasset" SILENT=true
+[2021.04.27-15.52.17:378][116]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/NewBlueprintE884064644AAB8E3007157BD854ECDDF.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Armata/NewBlueprint.uasset'
+[2021.04.27-15.52.17:383][116]Cmd: MAP LOAD FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-15.52.17:383][116]LightingResults: New page: Lighting Build
+[2021.04.27-15.52.17:383][116]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.04.27-15.52.17:402][116]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.52.17:402][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.17:402][116]MapCheck: New page: Map Check
+[2021.04.27-15.52.17:402][116]LightingResults: New page: Lighting Build
+[2021.04.27-15.52.17:424][116]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F0F0A9E40), frame # 33116
+[2021.04.27-15.52.17:424][116]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F0F0A5600), frame # 33116
+[2021.04.27-15.52.17:426][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.04.27-15.52.17:575][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-15.52.17:575][116]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-15.52.17:575][116]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F88299000), frame # 33116
+[2021.04.27-15.52.17:583][116]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F28CE1BC0), frame # 33116
+[2021.04.27-15.52.17:636][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.27-15.52.17:651][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-15.52.17:651][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,076ms to complete.
+[2021.04.27-15.52.17:651][116]LogFileHelpers: Loading map 'MainLevel' took 0.269
+[2021.04.27-15.52.17:696][116]AssetCheck: New page: Asset Save: NewBlueprint
+[2021.04.27-15.52.17:696][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Armata/NewBlueprint.NewBlueprint
+[2021.04.27-15.52.18:504][190]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-15.52.18:514][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-15.52.18:514][190]PIE: New page: PIE session: MainLevel (27 kwi 2021, 19:52:18)
+[2021.04.27-15.52.18:514][190]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.52.18:539][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024059s)
+[2021.04.27-15.52.18:539][190]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-15.52.18:539][190]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F3D829800), frame # 33190
+[2021.04.27-15.52.18:539][190]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F3D827D80), frame # 33190
+[2021.04.27-15.52.18:540][190]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2021.04.27-15.52.18:540][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.025190s)
+[2021.04.27-15.52.18:561][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-15.52.18:563][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-15.52.18:563][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-15.52.18:564][190]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-15.52.18:564][190]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-15.52.18:568][190]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-15.52.18:568][190]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-15.52.18:588][190]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-15.52.18:589][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-15.52.18:589][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-15.52.18:589][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-15.52.18:589][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-15.52.18:600][190]LogInit: FAudioDevice initialized.
+[2021.04.27-15.52.18:610][190]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-15.52.18:612][190]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-17.52.18
+[2021.04.27-15.52.18:612][190]LogWorld: Bringing up level for play took: 0.001332
+[2021.04.27-15.52.18:612][190]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.27-15.52.18:741][190]PIE: Server logged in
+[2021.04.27-15.52.18:743][190]PIE: Play in editor total start time 0,23 seconds.
+[2021.04.27-15.52.25:626][982]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Otrzymales obrazenia
+[2021.04.27-15.52.55:079][509]LogNet: Browse: /Game/Levels/MainLevel
+[2021.04.27-15.52.55:081][509]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.04.27-15.52.55:081][509]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.52.55:082][509]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.52.55:082][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.55:106][509]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F3D827D80), frame # 37509
+[2021.04.27-15.52.55:106][509]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F3D829800), frame # 37509
+[2021.04.27-15.52.55:109][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.27-15.52.55:119][509]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.52.55:133][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013584s)
+[2021.04.27-15.52.55:134][509]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-15.52.55:134][509]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FAABA5A00), frame # 37509
+[2021.04.27-15.52.55:134][509]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024FAAC2CF40), frame # 37509
+[2021.04.27-15.52.55:134][509]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2021.04.27-15.52.55:134][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.015271s)
+[2021.04.27-15.52.55:134][509]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-15.52.55:135][509]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-17.52.55
+[2021.04.27-15.52.55:136][509]LogWorld: Bringing up level for play took: 0.001133
+[2021.04.27-15.52.55:160][509]LogLoad: Took 0.079666 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.04.27-15.52.57:041][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.52.57:041][731]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.52.57:041][731]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.52.57:042][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.57:047][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-15.52.57:050][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.52.57:072][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.52.57:088][731]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024FAAC2CF40), frame # 37731
+[2021.04.27-15.52.57:088][731]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FAABA5A00), frame # 37731
+[2021.04.27-15.52.57:091][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.27-15.52.57:140][733]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.27-15.53.20:380][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-15.54.37:527][811]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_PlayerPawn3E6D46244AADBAF73D62C6913925AC88.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.uasset'
+[2021.04.27-15.54.37:537][811]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2021.04.27-15.54.37:537][811]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-15.54.38:026][867]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.04.27-15.54.38:070][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.27-15.54.46:601][850]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_ResetLevelTriggerD4061F7947ADEB41F1893ABD6D030D7E.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.uasset'
+[2021.04.27-15.54.46:619][850]AssetCheck: New page: Asset Save: BP_ResetLevelTrigger
+[2021.04.27-15.54.46:619][850]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-15.54.47:015][896]BlueprintLog: New page: Compile BP_ResetLevelTrigger
+[2021.04.27-15.54.47:071][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.27-15.54.52:549][475]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-15.54.52:559][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-15.54.52:559][475]PIE: New page: PIE session: MainLevel (27 kwi 2021, 19:54:52)
+[2021.04.27-15.54.52:559][475]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.54.52:570][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010867s)
+[2021.04.27-15.54.52:571][475]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-15.54.52:571][475]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FACD00A00), frame # 49475
+[2021.04.27-15.54.52:571][475]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F27A751C0), frame # 49475
+[2021.04.27-15.54.52:571][475]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.04.27-15.54.52:571][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.012015s)
+[2021.04.27-15.54.52:599][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.27-15.54.52:600][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-15.54.52:600][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-15.54.52:600][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-15.54.52:601][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-15.54.52:601][475]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-15.54.52:601][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-15.54.52:601][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-15.54.52:601][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-15.54.52:601][475]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-15.54.52:601][475]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-15.54.52:605][475]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-15.54.52:605][475]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-15.54.52:627][475]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-15.54.52:627][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-15.54.52:627][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-15.54.52:627][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-15.54.52:627][475]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-15.54.52:638][475]LogInit: FAudioDevice initialized.
+[2021.04.27-15.54.52:646][475]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-15.54.52:648][475]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-17.54.52
+[2021.04.27-15.54.52:648][475]LogWorld: Bringing up level for play took: 0.001267
+[2021.04.27-15.54.52:648][475]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.27-15.54.52:650][475]PIE: Server logged in
+[2021.04.27-15.54.52:651][475]PIE: Play in editor total start time 0,092 seconds.
+[2021.04.27-15.54.58:250][143]LogNet: Browse: /Game/Levels/MainLevel
+[2021.04.27-15.54.58:250][143]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.04.27-15.54.58:250][143]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.54.58:250][143]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.54.58:251][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.54.58:278][143]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FACD00A00), frame # 50143
+[2021.04.27-15.54.58:278][143]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F27A751C0), frame # 50143
+[2021.04.27-15.54.58:280][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.27-15.54.58:281][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.54.58:291][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010598s)
+[2021.04.27-15.54.58:291][143]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-15.54.58:291][143]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FACB95600), frame # 50143
+[2021.04.27-15.54.58:291][143]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F27A75300), frame # 50143
+[2021.04.27-15.54.58:292][143]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.04.27-15.54.58:292][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.011690s)
+[2021.04.27-15.54.58:292][143]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-15.54.58:293][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-17.54.58
+[2021.04.27-15.54.58:293][143]LogWorld: Bringing up level for play took: 0.001200
+[2021.04.27-15.54.58:295][143]LogLoad: Took 0.045320 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.04.27-15.54.59:794][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.54.59:794][317]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-15.54.59:794][317]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.54.59:794][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.54.59:802][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-15.54.59:805][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.54.59:831][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-15.54.59:847][317]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F27A75300), frame # 50317
+[2021.04.27-15.54.59:847][317]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FACB95600), frame # 50317
+[2021.04.27-15.54.59:849][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.27-15.54.59:873][318]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.27-15.55.51:409][112]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_ResetLevelTriggerE301F4BC4643596A02785EA38D497DBE.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.uasset'
+[2021.04.27-15.55.51:420][112]AssetCheck: New page: Asset Save: BP_ResetLevelTrigger
+[2021.04.27-15.55.51:420][112]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-15.55.51:876][164]BlueprintLog: New page: Compile BP_ResetLevelTrigger
+[2021.04.27-15.55.51:919][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.27-15.56.20:326][975]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_ResetLevelTrigger4BE7A2154D069C7E45C697BEA6792F3D.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.uasset'
+[2021.04.27-15.56.20:337][975]AssetCheck: New page: Asset Save: BP_ResetLevelTrigger
+[2021.04.27-15.56.20:337][975]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-15.56.20:678][ 12]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_ResetLevelTrigger95B859094276D648766DAE95E668BE77.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.uasset'
+[2021.04.27-15.56.20:688][ 12]AssetCheck: New page: Asset Save: BP_ResetLevelTrigger
+[2021.04.27-15.56.20:688][ 12]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-15.56.21:578][117]BlueprintLog: New page: Compile BP_ResetLevelTrigger
+[2021.04.27-15.56.21:621][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.27-15.58.13:460][588]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.27-15.58.24:222][810]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_PlayerPawn99912FB443E036089AF87BB8E3EB15B5.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.uasset'
+[2021.04.27-15.58.24:234][810]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2021.04.27-15.58.24:234][810]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-15.58.24:501][839]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.04.27-15.58.24:549][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.27-15.58.51:554][ 49]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-15.58.51:554][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-15.59.43:664][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LevelTriggers/BP_ResetLevelTrigger.BP_ResetLevelTrigger
+[2021.04.27-16.00.02:356][694]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-16.00.02:365][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-16.00.02:365][694]PIE: New page: PIE session: MainLevel (27 kwi 2021, 20:00:02)
+[2021.04.27-16.00.02:365][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.00.02:377][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011011s)
+[2021.04.27-16.00.02:377][694]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-16.00.02:377][694]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F94E1FE00), frame # 72694
+[2021.04.27-16.00.02:377][694]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F94D3FD80), frame # 72694
+[2021.04.27-16.00.02:378][694]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.04.27-16.00.02:378][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.012094s)
+[2021.04.27-16.00.02:409][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-16.00.02:411][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-16.00.02:411][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-16.00.02:412][694]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-16.00.02:412][694]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-16.00.02:416][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-16.00.02:416][694]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-16.00.02:438][694]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-16.00.02:438][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-16.00.02:438][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-16.00.02:438][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-16.00.02:438][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-16.00.02:449][694]LogInit: FAudioDevice initialized.
+[2021.04.27-16.00.02:456][694]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-16.00.02:458][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-18.00.02
+[2021.04.27-16.00.02:458][694]LogWorld: Bringing up level for play took: 0.001306
+[2021.04.27-16.00.02:458][694]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.27-16.00.02:460][694]PIE: Server logged in
+[2021.04.27-16.00.02:461][694]PIE: Play in editor total start time 0,096 seconds.
+[2021.04.27-16.00.05:974][110]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] otrzymales obrazenia!
+[2021.04.27-16.00.07:974][350]LogNet: Browse: /Game/Levels/MainLevel
+[2021.04.27-16.00.07:974][350]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.04.27-16.00.07:974][350]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.00.07:974][350]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.00.07:974][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.00.08:001][350]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F94E1FE00), frame # 73350
+[2021.04.27-16.00.08:001][350]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F94D3FD80), frame # 73350
+[2021.04.27-16.00.08:003][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.04.27-16.00.08:005][350]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.00.08:015][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010580s)
+[2021.04.27-16.00.08:016][350]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-16.00.08:016][350]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FA0E5D400), frame # 73350
+[2021.04.27-16.00.08:016][350]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024F94D3D940), frame # 73350
+[2021.04.27-16.00.08:016][350]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2021.04.27-16.00.08:016][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.011676s)
+[2021.04.27-16.00.08:016][350]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-16.00.08:018][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-18.00.08
+[2021.04.27-16.00.08:018][350]LogWorld: Bringing up level for play took: 0.001199
+[2021.04.27-16.00.08:019][350]LogLoad: Took 0.045424 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.04.27-16.00.09:281][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-16.00.09:281][500]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.00.09:282][500]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.00.09:282][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.00.09:289][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-16.00.09:292][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.00.09:319][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-16.00.09:333][500]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024F94D3D940), frame # 73500
+[2021.04.27-16.00.09:333][500]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FA0E5D400), frame # 73500
+[2021.04.27-16.00.09:336][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.04.27-16.00.09:387][502]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.27-16.01.15:259][ 51]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.01.15:259][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.01.16:419][173]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_PlayerPawnE0AD6C9F4A1FF1EA30B6A7AA068A5718.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.uasset'
+[2021.04.27-16.01.16:444][173]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2021.04.27-16.01.16:444][173]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-16.01.16:725][206]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.04.27-16.01.16:771][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.27-16.02.17:147][766]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.04.27-16.02.17:150][766]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.04.27-16.02.17:151][766]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.27-16.02.17:151][766]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.02.17:151][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.02.17:193][766]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.27-16.02.17:194][766]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.02.17:194][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.02.30:355][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.27-16.02.31:465][251]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.27-16.02.31:593][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.04.27-16.02.31:616][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.27-16.02.31:631][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.04.27-16.02.34:135][417]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.27-16.02.36:223][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/NewBlueprint.NewBlueprint
+[2021.04.27-16.02.57:910][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.SKEL_DamageSpike_C' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike_C' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:927][200]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/Projectiles/NewBlueprint.PackageMetaData'
+[2021.04.27-16.02.57:971][200]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/DamageSpikeF738B511449176D10E24D3893EDE6F74.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/DamageSpike.uasset'
+[2021.04.27-16.02.58:123][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.04.27-16.02.58:145][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.27-16.02.58:162][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-16.02.58:197][200]AssetCheck: New page: Asset Save: DamageSpike
+[2021.04.27-16.02.58:197][200]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/DamageSpike.DamageSpike
+[2021.04.27-16.03.05:853][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike_C' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.SKEL_BP_DamageSpike_C' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:858][112]LogMetaData: Removing '/Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actors/Projectiles/DamageSpike.PackageMetaData'
+[2021.04.27-16.03.05:877][112]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpike5367EDBE4AD787111351EF89AA52B115.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.03.06:008][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.27-16.03.06:030][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.27-16.03.06:048][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.27-16.03.06:075][112]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.03.06:075][112]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.03.26:907][393]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.27-16.03.41:783][965]LogEditorTransaction: Undo Paste Component(s)
+[2021.04.27-16.05.43:590][391]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpikeC3A990054B849D6B9A34969F5AA97398.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.05.43:603][391]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.05.43:603][391]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.05.44:056][442]BlueprintLog: New page: Compile BP_DamageSpike
+[2021.04.27-16.05.44:228][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.27-16.06.05:655][992]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.06.05:659][992]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.06.05:668][992]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.06.05:669][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.06.18:466][462]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2021.04.27-16.06.27:833][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.07.07:640][941]LogEditorTransaction: Undo Set Scale
+[2021.04.27-16.07.08:825][ 19]LogEditorTransaction: Undo Make New Scene Root
+[2021.04.27-16.09.06:796][452]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.27-16.09.29:117][866]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.27-16.09.36:986][599]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.27-16.10.25:681][141]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpikeE3EF79AB485578E7FCEA9CB751CAE93F.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.10.25:691][141]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.10.25:692][141]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.10.26:267][206]BlueprintLog: New page: Compile BP_DamageSpike
+[2021.04.27-16.10.26:392][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.27-16.10.32:148][835]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpike1E945C404B41BD08389BDDB07CCF97D2.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.10.32:156][835]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.10.32:157][835]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.10.32:465][868]BlueprintLog: New page: Compile BP_DamageSpike
+[2021.04.27-16.10.32:510][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.04.27-16.11.10:567][173]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpike4A3A6CDF401F215772C1EFBBFC22123D.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.11.10:578][173]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.11.10:578][173]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.11.10:896][209]BlueprintLog: New page: Compile BP_DamageSpike
+[2021.04.27-16.11.10:943][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.27-16.11.12:100][337]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.11.12:103][337]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.11.12:113][337]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.11.12:113][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.11.12:157][337]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.27-16.11.12:157][337]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.11.12:158][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.11.13:295][466]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-16.11.13:304][466]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.27-16.11.13:305][466]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2021.04.27-16.11.13:336][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.27-16.11.13:338][466]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2021.04.27-16.11.13:338][466]PIE: New page: PIE session: MainLevel (27 kwi 2021, 20:11:13)
+[2021.04.27-16.11.13:338][466]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.11.13:349][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011057s)
+[2021.04.27-16.11.13:350][466]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.27-16.11.13:350][466]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024F2A6AF600), frame # 138466
+[2021.04.27-16.11.13:350][466]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024FAA953EC0), frame # 138466
+[2021.04.27-16.11.13:350][466]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.04.27-16.11.13:351][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.012176s)
+[2021.04.27-16.11.13:367][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-16.11.13:367][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-16.11.13:367][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-16.11.13:368][466]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-16.11.13:368][466]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-16.11.13:372][466]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-16.11.13:372][466]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-16.11.13:394][466]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.04.27-16.11.13:394][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-16.11.13:394][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-16.11.13:394][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-16.11.13:395][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-16.11.13:405][466]LogInit: FAudioDevice initialized.
+[2021.04.27-16.11.13:415][466]LogLoad: Game class is 'BP_GameMode_C'
+[2021.04.27-16.11.13:417][466]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.04.27-18.11.13
+[2021.04.27-16.11.13:417][466]LogWorld: Bringing up level for play took: 0.001639
+[2021.04.27-16.11.13:417][466]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.27-16.11.13:440][466]PIE: Server logged in
+[2021.04.27-16.11.13:441][466]PIE: Play in editor total start time 0,136 seconds.
+[2021.04.27-16.11.15:850][751]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] otrzymales obrazenia!
+[2021.04.27-16.11.17:784][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-16.11.17:784][981]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.04.27-16.11.17:784][981]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.11.17:784][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.11.17:790][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-16.11.17:792][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.11.17:808][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-16.11.17:822][981]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024FAA953EC0), frame # 138981
+[2021.04.27-16.11.17:822][981]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024F2A6AF600), frame # 138981
+[2021.04.27-16.11.17:824][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.04.27-16.11.17:883][985]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.27-16.11.20:479][286]LogEditorViewport: Clicking on Actor (LMB): BP_DamageSpike_C (BP_DamageSpike)
+[2021.04.27-16.11.22:498][477]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.12.12:120][636]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/BP_DamageSpike52FB9C104D4FD66EBD0F5A9C0D1B0448.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Blueprints/Actors/Projectiles/BP_DamageSpike.uasset'
+[2021.04.27-16.12.12:132][636]AssetCheck: New page: Asset Save: BP_DamageSpike
+[2021.04.27-16.12.12:132][636]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.12.12:540][680]BlueprintLog: New page: Compile BP_DamageSpike
+[2021.04.27-16.12.12:611][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.04.27-16.12.14:641][895]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.12.14:644][895]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.12.14:654][895]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.12.14:654][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.12.27:257][322]Cmd: EDIT COPY
+[2021.04.27-16.12.27:519][322]Cmd: EDIT PASTE
+[2021.04.27-16.12.30:479][652]Cmd: EDIT COPY
+[2021.04.27-16.12.30:684][676]Cmd: EDIT PASTE
+[2021.04.27-16.12.33:034][943]Cmd: EDIT PASTE
+[2021.04.27-16.12.45:905][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-16.12.45:961][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.27-16.12.46:000][410]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/MainLevelD241C6B24BFDB3836FF128819A85EE2D.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap'
+[2021.04.27-16.12.46:025][410]AssetCheck: New page: Asset Save: MainLevel
+[2021.04.27-16.12.46:025][410]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.04.27-16.17.36:848][498]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_DamageSpike.BP_DamageSpike
+[2021.04.27-16.17.51:695][467]LogRenderer: Reallocating scene render targets to support 1600x744 Format 10 NumSamples 1 (Frame:1).
+[2021.04.27-16.17.57:716][180]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.17.57:720][180]LogSlate: Window 'BP_DamageSpike' being destroyed
+[2021.04.27-16.17.57:720][180]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.17.57:720][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.18.29:767][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-16.18.29:837][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.27-16.18.29:871][785]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/MainLevelBB240524430EF78802FA7A8114E93D25.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap'
+[2021.04.27-16.18.29:896][785]AssetCheck: New page: Asset Save: MainLevel
+[2021.04.27-16.18.29:896][785]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.04.27-16.26.34:823][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/PlayerPawn/BP_PlayerPawn.BP_PlayerPawn
+[2021.04.27-16.26.48:347][250]BlueprintLog: New page: Collapse to Macro
+[2021.04.27-16.27.09:260][714]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.04.27-16.27.09:263][714]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.04.27-16.27.09:266][714]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-16.27.09:266][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-16.27.10:525][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-16.27.10:545][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.27-16.27.10:580][852]LogSavePackage: Moving 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Saved/MainLevelD17A87984B52821D15D1E9AF3ED54557.tmp' to 'E:/DATA/STUDIA/STUDIA ROK 2/PZP - Ballrunner/BallGame/Content/Levels/MainLevel.umap'
+[2021.04.27-16.27.10:604][852]AssetCheck: New page: Asset Save: MainLevel
+[2021.04.27-16.27.10:604][852]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
